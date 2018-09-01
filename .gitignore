@@ -84,3 +84,11 @@ yararules/testing.yar
 # DB
 voladmin
 secret_key.py
+\.DS_Store
+
+# Memory Dump
+memory-dump/*
+!memory-dump/empty
+
+# Mac file
+\.DS_Store
